@@ -2,10 +2,13 @@
 # iOS Location Changer Renewer
 
 
-This tool, Renewer.py, is designed to be used with ios-location-changer.exe. If you use the ios-location-changer.exe program without the Renewer.py, you are limited to only 2 trials. However, by using this Renewer.py script, you can renew the trials every time, giving you unlimited access to the program.
+This tool, Renewer.py, is designed to be used with Tenorshare iAnyGo. If you use the Tenorshare iAnyGo program without the Renewer.py, you are limited to only 2 trials. However, by using this Renewer.py script, you can renew the trials every time, giving you unlimited access to the program.
 
 
 
+## Website For Tenorshare iAnyGo
+
+https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html
 ## Prerequisites
 
 Before using this tool, make sure you have Python installed on your system.
